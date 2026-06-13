@@ -43,5 +43,3 @@ The simulation demonstrates successful amplification of low-level bridge signals
 ## Author
 
 Kaushik Das
-Applied Electronics and Instrumentation Engineering
-University of Burdwan
